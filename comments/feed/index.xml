@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
-	<atom:link href="https://ganymede451.github.io/arvisionweb/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ganymede451.github.io/arvisionweb/hello-world/</link>
+	Comments for MountAR	</title>
+	<atom:link href="https://ganymede451.github.io/arvisionweb/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ganymede451.github.io/arvisionweb/</link>
 	<description>Explore the World Around You Like Never Before with 360° Augmented Reality, Unlocking Hidden Stories and Details of Landmarks.</description>
 	<lastBuildDate>Mon, 13 Jan 2025 11:08:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>
-		By: A WordPress Commenter		</title>
+		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>https://ganymede451.github.io/arvisionweb/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
